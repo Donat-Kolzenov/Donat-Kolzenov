@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <div align="center">
   <a href="https://github.com/donat-kolzenov">
@@ -18,3 +18,10 @@
 </div>
 
 ##
+
+<div> 
+  <a href="https://vk.com/dkolzenov" target="_blank"><img src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" target="_blank"></a>
+  <a href="https://t.me/dkolzenov" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/nJuuwS73SQ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href = "mailto:donatkolzenov@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
