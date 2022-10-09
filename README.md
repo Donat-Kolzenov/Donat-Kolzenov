@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=56&animation=fadeIn&fontAlignY=28&desc=to%20my%20GitHub%20profile!&descSize=30&descAlignY=50&descAlign=50.5)
 
 <div align="center">
-  <a href="https://github.com/donat-kolzenov">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=donat-kolzenov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=donat-kolzenov&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/dkolzenov">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=dkolzenov&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=stars"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkolzenov&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
